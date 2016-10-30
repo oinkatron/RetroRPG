@@ -1,0 +1,9 @@
+[MapInfo]
+name = Map_01
+background_image = back.png
+foreground_image = fore_g.png
+foreground_image_offset_y = 450
+tile_size = 32
+width = 25
+height = 18
+tilesheet = default

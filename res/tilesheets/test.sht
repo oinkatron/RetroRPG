@@ -1,0 +1,7 @@
+[Tilesheet]
+name = "default"
+image_name = "tileset.bmp"
+tile_width = 32
+tile_height = 32
+gap_x = 0
+gap_y = 0

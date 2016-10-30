@@ -1,0 +1,27 @@
+[ERROR]::>Text Pressed red value not found! Assuming 0
+[ERROR]::>Text Pressed green value not found! Assuming 0
+[ERROR]::>Text Pressed blue value not found! Assuming 0
+[ERROR]::>Could not find Asset: mailrays:20
+[ERROR]::>Could not find Asset: mailrays:12
+[ERROR]::>Could not find Asset: mailrays:14
+[LOG]::>Finished Setup Starting game...:)
+[ERROR]::>Could not find Asset: ctlogo.png
+[ERROR]::>Could not find Asset: main:24
+[ERROR]::>Could not find Asset: main:10
+[ERROR]::>Could not find Asset: main:14
+[ERROR]::>Could not find Asset: main:42 could not delete
+[ERROR]::>Could not find Asset: icons.bmp
+[ERROR]::>Could not find Asset: chars.png
+[ERROR]::>Asset with name: main:14 already exists!
+[ERROR]::>Could not find Asset: main:10
+[ERROR]::>Could not find Asset: walk_right
+[ERROR]::>Could not find Asset: stand_right
+[ERROR]::>Could not find Asset: walk_left
+[ERROR]::>Could not find Asset: stand_left
+[ERROR]::>Could not find Asset: walk_up
+[ERROR]::>Could not find Asset: stand_up
+[ERROR]::>Could not find Asset: walk_down
+[ERROR]::>Could not find Asset: stand_down
+[ERROR]::>Could not find Asset: npc_stand_down
+[LOG]::>Finished setting up edit mode
+[LOG]::>Kill signal sent!

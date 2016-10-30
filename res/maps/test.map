@@ -1,0 +1,6 @@
+[MapInfo]
+name = test
+tile_size = 32
+width = 256
+height = 256
+tilesheet = default

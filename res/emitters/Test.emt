@@ -1,0 +1,20 @@
+[Emitter]
+name = "white_fire"
+min_life = 500
+max_life = 1000
+min_x_vel = 0
+max_x_vel = 0
+min_y_vel = -20
+max_y_vel = -50
+min_x_modifier = 50
+max_x_modifier = 100
+min_width = 5
+max_width = 10
+min_height = 5
+max_height = 10
+min_r = 32
+max_r = 196
+min_g = 0
+max_g = 0
+min_b = 0
+max_b = 0

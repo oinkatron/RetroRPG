@@ -1,0 +1,60 @@
+[Sprite]
+image_name = tag.png
+name = tag_walk_right
+num_frames = 2
+start_x = 1
+start_y = 0
+frame_width = 21
+frame_height = 32
+animation_speed = 400
+
+[Sprite]
+image_name = tag.png
+name = tag_stand_right
+num_frames = 1
+start_x = 0
+start_y = 0
+frame_width = 21
+frame_height = 32
+animation_speed = 50
+
+[Sprite]
+image_name = tag.png
+name = tag_run_right
+num_frames = 2
+start_x = 3
+start_y = 0
+frame_width = 22
+frame_height = 32
+animation_speed = 200
+
+[Sprite]
+image_name = tag.png
+name = tag_walk_left
+num_frames = 2
+start_x = 7
+start_y = 0
+frame_width = 21
+frame_height = 32
+animation_speed = 400
+
+[Sprite]
+image_name = tag.png
+name = tag_stand_left
+num_frames = 1
+start_x = 8
+start_y = 0
+frame_width = 21
+frame_height = 32
+animation_speed = 50
+
+[Sprite]
+image_name = tag.png
+name = tag_run_left
+num_frames = 2
+start_x = 5
+start_y = 0
+frame_width = 21
+frame_height = 32
+animation_speed = 200
+

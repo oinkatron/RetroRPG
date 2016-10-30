@@ -1,0 +1,89 @@
+[Sprite]
+image_name = chars.png
+name = walk_right
+num_frames = 3
+start_x = 0
+start_y = 2
+frame_width = 32
+frame_height = 32
+animation_speed = 200
+
+[Sprite]
+image_name = chars.png
+name = stand_right
+num_frames = 1
+start_x = 1
+start_y = 2
+frame_width = 32
+frame_height = 32
+animation_speed = 50
+
+[Sprite]
+image_name = chars.png
+name = walk_left
+num_frames = 3
+start_x = 0
+start_y = 1
+frame_width = 32
+frame_height = 32
+animation_speed = 200
+
+[Sprite]
+image_name = chars.png
+name = stand_left
+num_frames = 1
+start_x = 1
+start_y = 1
+frame_width = 32
+frame_height = 32
+animation_speed = 50
+
+[Sprite]
+image_name = chars.png
+name = walk_up
+num_frames = 3
+start_x = 0
+start_y = 3
+frame_width = 32
+frame_height = 32
+animation_speed = 200
+
+[Sprite]
+image_name = chars.png
+name = stand_up
+num_frames = 1
+start_x = 1
+start_y = 3
+frame_width = 32
+frame_height = 32
+animation_speed = 50
+
+[Sprite]
+image_name = chars.png
+name = walk_down
+num_frames = 3
+start_x = 0
+start_y = 0
+frame_width = 32
+frame_height = 32
+animation_speed = 200
+
+[Sprite]
+image_name = chars.png
+name = stand_down
+num_frames = 1
+start_x = 1
+start_y = 0
+frame_width = 32
+frame_height = 32
+animation_speed = 50
+
+[Sprite]
+image_name = chars.png
+name = npc_stand_down
+num_frames = 1
+start_x = 4
+start_y = 0
+frame_width = 32
+frame_height = 32
+animation_speed = 50
